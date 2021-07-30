@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there, I'm Andrea 👋
+I'm a recent grad of the University of British Columbia, where I studied Cognitive Systems. I'm currently working on the [DTQC Quantum Hub](https://github.com/dtquantumc/quantum-hub) for UBC Geering Up. I enjoy building meaningfully designed web applications.
+## Previously...
+- I spent my co-op placement at [PNI Media](https://www.pnimedia.com/)
+- I led a [UBC Emerging Media Lab](https://github.com/ubcemergingmedialab) team in developing a VR tool for music students
+- I developed a chatbot for [Synaptitude Brain Health](https://synaptitudebrainhealth.com/) as part of my COGS 402 research project
+## Reach me via
+[LinkedIn](https://www.linkedin.com/in/andreamtang/) | [Email](mailto:andreamtang@gmail.com)
 
 <!--
 **andreamtang/andreamtang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
