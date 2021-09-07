@@ -1,6 +1,7 @@
 # Hi there, I'm Andrea 👋
-I'm a recent grad of the University of British Columbia, where I studied Cognitive Systems. I'm currently working on the [DTQC Quantum Hub](https://github.com/dtquantumc/quantum-hub) for UBC Geering Up. I have worked with object oriented programming languages, web applications, and game development and am passionate about building meaningfully designed digital experiences.
+I'm a recent grad of the University of British Columbia, where I studied Cognitive Systems. I'm currently seeking full time web development opportunities where I can share my passion for bulding meaningfully designed digital experiences. I have worked with object oriented programming languages, web applications, and game development.
 ## Previously...
+- I implemented my original redesign for the [DTQC Quantum Hub](https://github.com/dtquantumc/quantum-hub)
 - I spent my co-op placement at [PNI Media](https://www.pnimedia.com/)
 - I led a [UBC Emerging Media Lab](https://github.com/ubcemergingmedialab) team in developing a VR tool for music students
 - I developed a chatbot for [Synaptitude Brain Health](https://synaptitudebrainhealth.com/) as part of my COGS 402 research project
