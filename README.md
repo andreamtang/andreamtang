@@ -1,5 +1,5 @@
 # Hi there, I'm Andrea 👋
-I'm currently a Junior Full Stack Engineer at [Thinkific](https://www.thinkific.com/) on the Payments Team. I graduated from the University of British Columbia, where I studied Cognitive Science. I love to build meaninfully designed digital experiences.
+I'm currently a Junior Full Stack Engineer at [Thinkific](https://www.thinkific.com/) on the Payments Team. I graduated from the University of British Columbia, where I studied Cognitive Science. I love to build meaningfully designed digital experiences.
 ## Previously...
 - I implemented my original redesign for the [DTQC Quantum Hub](https://github.com/dtquantumc/quantum-hub)
 - I spent my co-op placement at [PNI Media](https://www.pnimedia.com/), where I worked on web applications for clients such as Costco, Staples, & Sam's Club
